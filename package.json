@@ -1,0 +1,22 @@
+{
+  "name": "kodex",
+  "version": "1.0.0",
+  "description": "jadada",
+  "main": "app.js",
+  "scripts": {
+    "test": "nä"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ingewt"
+  },
+  "keywords": [
+    "japp"
+  ],
+  "author": "Bosse Fågel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.0.1"
+  }
+}
